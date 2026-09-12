@@ -1,0 +1,9 @@
+/target
+/out
+
+*.pdb
+*.log
+
+.vs/
+.vscode/
+.idea/
